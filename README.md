@@ -33,15 +33,15 @@ Estados
 Objetivos 
 ------------------
  **General**
- ------------------
+ 
    	Desarrollar un smart contract simple, que permite realizar compras, de tal modo que el comprador pueda regatear el precio con el vendedor. 
 
  **Específicos**
- ------------------
+ 
    -Crear programa en IDE remix.
    -Mejoramiento y/o implementación de una nueva funcionalidad.
    -Demostración del proyecto en ejecución.
- ------------------
+ 
 
 Flujo de trabajo
 ----------------
