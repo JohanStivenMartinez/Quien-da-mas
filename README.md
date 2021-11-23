@@ -40,7 +40,7 @@ Objetivos 
    -Mejoramiento y/o implementación de una nueva funcionalidad.
    -Demostración del proyecto en ejecución.
    
-   ![workflow details for application](media/Market2.png)
+   ![workflow details for application](Market2.png)
  
 
 Flujo de trabajo
