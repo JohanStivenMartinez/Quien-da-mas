@@ -39,6 +39,8 @@ Objetivos 
    -Crear programa en IDE remix.
    -Mejoramiento y/o implementación de una nueva funcionalidad.
    -Demostración del proyecto en ejecución.
+   
+   ![workflow details for application](media/Market2.jpg)
  
 
 Flujo de trabajo
