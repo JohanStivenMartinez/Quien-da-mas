@@ -30,6 +30,41 @@ Estados
 |**Precio Oferta** |Indica  el precio por el cual se esta dando el articulo disponible.
 |**Acceptado** |Indica que el comprador ha aceptado el precio del articulo que coloca el vendedor.
 
+**Objetivos**
+ **General**
+   	Desarrollar un smart contract simple, que permite realizar compras, de tal modo que el comprador pueda regatear el precio con el vendedor. 
+
+ **Específicos**
+   -Crear programa en IDE remix.
+   -Mejoramiento y/o implementación de una nueva funcionalidad.
+   -Demostración del proyecto en ejecución.
+   
+**Ejecución**
+Se debe abrir el IDE de remix https://remix.ethereum.org.
+Posteriormente crearemos un nuevo archivo que finalice en .sol
+Asignamos la versión del compilador.
+
+Crear un estado de partición dentro del MarketPlace
+
+Creamos las instancias del programa, las cuales son el Owner, la description, el state, AskingPrice, Discount buyer y offerprice.
+
+Creamos un constructor para asignar valores iniciales.
+
+
+Creamos una función llamada MarOffter en la cual le indicaremos que si el precio que oferta el Buyer es menor al 75% se cancela.
+
+Creamos la función Eval compara el precio de la oferta con la del descuento, y si es correo permitirá al Owner aceptar el contrato o en caso contrario lo finaliza el sistema.
+
+Creamos la función Reject para rechazar la entrega por parte del Owner.
+
+Creamos la función AccepOffer para que el Owner pueda aceptar la oferta del Buyer.
+
+Al finalizar, el programa te debe quedar asi:
+
+
+
+
+
 Flujo de trabajo
 ----------------
 El flujo de trabajo es implementado por un código de GitHUb, colocado desde este link:
